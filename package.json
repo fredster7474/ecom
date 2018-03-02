@@ -1,0 +1,12 @@
+{
+  "name": "products-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "pg": "6",
+    "sequelize": "^4.35.1"
+  }
+}
